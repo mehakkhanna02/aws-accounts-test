@@ -1,0 +1,17 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "376095877073",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "801002449898",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "non-production": {
+            "account_id": "798661795740",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

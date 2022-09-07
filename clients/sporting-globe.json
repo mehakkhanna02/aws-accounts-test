@@ -1,0 +1,22 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "079648398900",
+            "roles": ["ItocReadOnly","ItocAdmin"]
+        },
+        "dev": {
+            "account_id": "079077045198",
+            "roles": ["ItocReadOnly","ItocAdmin"]
+        },
+        "staging": {
+            "account_id": "236829769194",
+            "roles": ["ItocReadOnly","ItocAdmin"]
+        },
+        "billing-admin": {
+            "account_id": "079648398900",
+            "roles": ["ItocReadOnly","ItocAdmin"]
+        }
+
+    },
+    "roles": {}
+}

@@ -1,0 +1,34 @@
+{
+    "accounts": {
+        "legacy": {
+            "account_id": "011215553646",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "management": {
+            "account_id": "873926027379",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "audit": {
+            "account_id": "623272602057",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "development": {
+            "account_id": "663612882071",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "shared": {
+            "account_id": "333955647899",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "production-au": {
+            "account_id": "209671132855",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "production-uk": {
+            "account_id": "508622527479",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        }        
+    },
+    "roles": {}
+}
+

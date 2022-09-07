@@ -1,0 +1,45 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "229134705186",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "415563441879",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },
+        "log-archive": {
+            "account_id": "373725872839",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },        
+        "shared": {
+            "account_id": "632568585250",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },        
+        "au-sandbox": {
+            "account_id": "681082731311",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },
+        "au-staging": {
+            "account_id": "291361946620",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },
+        "au-prod": {
+            "account_id": "806312673519",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },
+        "nz-sandbox": {
+            "account_id": "979737947716",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },
+        "nz-staging": {
+            "account_id": "002437590722",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        },
+        "nz-prod": {
+            "account_id": "580065671405",
+            "roles": ["ItocAdminAccess", "ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

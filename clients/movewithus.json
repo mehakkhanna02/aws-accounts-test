@@ -1,0 +1,21 @@
+{
+    "accounts": {
+        "mwu-legacy": {
+            "account_id": "192747142229",
+            "roles": ["ItocReadOnly"]
+        },
+        "bbr-production": {
+            "account_id": "581758823180",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "724804378002",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "main": {
+            "account_id": "879286099781",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

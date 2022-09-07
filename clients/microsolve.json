@@ -1,0 +1,53 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "817798723781",
+            "roles": ["ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "752196246493",
+            "roles": ["ItocAdmin"]
+        },
+        "identity": {
+            "account_id": "550447775770",
+            "roles": ["ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "828862742398",
+            "roles": ["ItocAdmin"]
+        },
+        "paramedical-operational": {
+            "account_id": "378243113895",
+            "roles": ["ItocAdmin"]
+        },
+        "microsolve-operational": {
+            "account_id": "839189097026",
+            "roles": ["ItocAdmin"]
+        },
+        "illawarra-operational": {
+            "account_id": "32678458255",
+            "roles": ["ItocAdmin"]
+        },
+        "amr-operational": {
+            "account_id": "138556413536",
+            "roles": ["ItocAdmin"]
+        },
+        "anthemcare-operational": {
+            "account_id": "428884837412",
+            "roles": ["ItocAdmin"]
+        },
+        "sccac-operational": {
+            "account_id": "702253011121",
+            "roles": ["ItocAdmin"]
+        },
+        "warrigal-operational": {
+            "account_id": "692004416289",
+            "roles": ["ItocAdmin"]
+        },
+        "warrigal-dr": {
+            "account_id": "234945689612",
+            "roles": ["ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

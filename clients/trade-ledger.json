@@ -1,0 +1,73 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "271678194879",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production-2": {
+            "account_id": "378625249350",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "identity": {
+            "account_id": "870033957400",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "demo": {
+            "account_id": "509193327145",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "tl-operations-prod": {
+            "account_id": "284506319511",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared-service": {
+            "account_id": "189235394101",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pen-test": {
+            "account_id": "971768629076",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit-backup": {
+            "account_id": "073988070658",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "prod": {
+            "account_id": "114618095809",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "hsbc-prod": {
+            "account_id": "237206498912",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "playground": {
+            "account_id": "801003340793",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "uat": {
+            "account_id": "247813389374",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "training": {
+            "account_id": "945685619853",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+         "non-prod": {
+            "account_id": "134337555384",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+         "hsbc-uat": {
+            "account_id": "307895434659",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+         "contractors": {
+            "account_id": "607903568545",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+         "antivirus": {
+            "account_id": "759358722884",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

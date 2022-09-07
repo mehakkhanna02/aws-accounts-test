@@ -1,0 +1,31 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "973154648719",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "447649653123",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "256871938032",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "047267880077",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "448972398540",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}
+

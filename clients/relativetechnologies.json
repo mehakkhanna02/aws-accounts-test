@@ -1,0 +1,33 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "764367142412",
+            "roles": ["ItocAdmin"]
+        },
+        "dataprocessing": {
+            "account_id": "173460361463",
+            "roles": ["ItocAdmin"]
+        },
+        "non-prod": {
+            "account_id": "386653444118",
+            "roles": ["ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "092165354856",
+            "roles": ["ItocAdmin"]
+        },
+        "prod": {
+            "account_id": "821543356141",
+            "roles": ["ItocAdmin"]
+        },
+        "hugh": {
+            "account_id": "172300144517",
+            "roles": ["ItocAdmin"]
+        },
+        "whitecove": {
+            "account_id": "722278397610",
+            "roles": ["ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

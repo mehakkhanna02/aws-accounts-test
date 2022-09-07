@@ -1,0 +1,41 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "806039939088",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "stg": {
+            "account_id": "315762624652",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "dev": {
+            "account_id": "302334733527",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "apac-prod": {
+            "account_id": "988652248816",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "eu-prod": {
+            "account_id": "988652248816",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "us-prod": {
+            "account_id": "406922103015",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "apac-prod-customer-sandbox": {
+            "account_id": "526692790381",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "eu-prod-customer-sandbox": {
+            "account_id": "608944033497",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "us-prod-customer-sandbox": {
+            "account_id": "208431154860",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

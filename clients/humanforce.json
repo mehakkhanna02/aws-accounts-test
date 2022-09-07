@@ -1,0 +1,33 @@
+{
+    "accounts": {
+        "au-prod-master": {
+            "account_id": "702415830869",
+            "roles": ["ItocAdminAccess"]
+        },
+        "nz-prod": {
+            "account_id": "751165684211",
+            "roles": ["ItocAdminAccess"]
+        },
+        "uk-prod": {
+            "account_id": "844790067754",
+            "roles": ["ItocAdminAccess"]
+        },
+        "au-dev": {
+            "account_id": "241571936177",
+            "roles": ["ItocAdminAccess"]
+        },
+        "uk-dev": {
+            "account_id": "712428059244",
+            "roles": ["ItocAdminAccess"]
+        },
+        "staging": {
+            "account_id": "117014264271",
+            "roles": ["ItocAdminAccess"]
+        },
+        "security": {
+            "account_id": "869160103798",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

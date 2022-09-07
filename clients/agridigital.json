@@ -1,0 +1,50 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "489605773833",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "607219854939",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "identity": {
+            "account_id": "192482465894",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "986579130349",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "857731795098",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "staging": {
+            "account_id": "267004600286",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "test": {
+            "account_id": "566148702433",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "sandbox": {
+            "account_id": "748820326547",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "331630586642",
+            "region": "us-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

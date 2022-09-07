@@ -1,0 +1,33 @@
+{
+    "accounts": {
+        "main": {
+            "account_id": "260913728589",
+            "roles": ["ItocReadOnly", "ItocAdminAccess"]
+        },
+        "audit": {
+            "account_id": "485226131816",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "010410311588",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "804372243754",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "305045385234",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "preproduction": {
+            "account_id": "974546519159",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "sandbox": {
+            "account_id": "376954056806",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

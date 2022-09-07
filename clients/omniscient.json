@@ -1,0 +1,37 @@
+{
+    "accounts": {
+        "legacy": {
+            "account_id": "018661664346",
+            "roles": ["ItocReadOnly"]
+        },        
+        "root": {
+            "account_id": "280415313094",
+            "roles": ["ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "469164544371",
+            "roles": ["ItocAdmin"]
+        },
+        "datascience": {
+            "account_id": "748172487072",
+            "roles": ["ItocAdmin"]
+        },
+        "development": {
+            "account_id": "932043103545",
+            "roles": ["ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "182221462027",
+            "roles": ["ItocAdmin"]
+        },
+        "production": {
+            "account_id": "978609223444",
+            "roles": ["ItocAdmin"]
+        },
+        "legacy": {
+            "account_id": "018661664346",
+            "roles": ["ItocReadOnly"]
+        }
+    }, 
+    "roles": {}
+}

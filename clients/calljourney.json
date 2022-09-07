@@ -1,0 +1,21 @@
+{
+    "accounts": {
+        "production": {
+            "account_id": "028881612136",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "553659412291",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "015058208592",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "log-archive": {
+            "account_id": "843851015081",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    }, 
+    "roles": {}
+}

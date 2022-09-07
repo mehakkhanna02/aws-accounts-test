@@ -1,0 +1,72 @@
+name: main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      UPDATE_CONFLUENCE: True
+      CONFLUENCE_USERNAME: ${{ secrets.CONFLUENCE_USERNAME }}
+      CONFLUENCE_PASSWORD: ${{ secrets.CONFLUENCE_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run python checks
+        run: |
+          pip install atlassian-python-api
+          python build/build.py
+      - uses: actions/upload-artifact@v2
+        with:
+          name: config-files
+          path: configs/
+  terraform:
+    runs-on: ubuntu-latest
+    env:
+      OKTA_ORG_NAME: ${{ secrets.OKTA_ORG_NAME }}
+      OKTA_BASE_URL: ${{ secrets.OKTA_BASE_URL }}
+      OKTA_API_TOKEN: ${{ secrets.OKTA_API_TOKEN }}
+      AWS_ACCESS_KEY_ID: ${{ secrets.CP_AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.CP_AWS_SECRET_ACCESS_KEY }}
+    defaults:
+      run:
+        shell: bash
+        working-directory: terraform
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Debug commands # Feel free to add debug commands here
+        run: |
+          echo ">> pwd"
+          pwd
+          echo ">> ls"
+          ls
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: 1.0.4
+      - name: Verify Terraform Installation
+        run: |
+          which terraform
+          terraform --version
+      - name: Terraform Init
+        run: terraform init
+      - name: Terraform Apply
+        run: terraform apply -auto-approve
+  release:
+    runs-on: ubuntu-latest
+    needs: [build, terraform]
+    steps:
+      - uses: actions/download-artifact@v2.0.10
+        with:
+          name: config-files
+          path: configs
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          title: "Latest Config Files"
+          files: |
+            configs/*.*

@@ -1,0 +1,33 @@
+{
+    "accounts": {
+        "management": {"account_id": "674183462991","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "arnotts-prod": {"account_id": "687914363721","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "complexica": {"account_id": "220123476885","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "pfd": {"account_id": "180209879932","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "arnotts": {"account_id": "318388622212","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "complexica-polyaire": {"account_id": "653926151818","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "flinders-ports": {"account_id": "299000268499","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "demos": {"account_id": "617256468577","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "janssen-cei": {"account_id": "486196695123","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "costa": {"account_id": "439044371520","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "complexica-pfd": {"account_id": "609491577981","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "cub": {"account_id": "249562640132","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "cgl": {"account_id": "258246802634","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "lion": {"account_id": "086529883616","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "alm": {"account_id": "474142990390","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "bunzl": {"account_id": "542676342923","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "hca": {"account_id": "529212833127","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "atom": {"account_id": "275093345506","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "lmg": {"account_id": "904413606191","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "devops": {"account_id": "580956525968","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "dulux": {"account_id": "206140283266","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "liquor-barons": {"account_id": "046541427007","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "prw": {"account_id": "484426187207","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "experiments": {"account_id": "033270697865","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]},
+        "audit": {"account_id": "608028878527","roles": ["ItocReadOnly", "ItocAdmin"]},
+        "liquor-barons-prod": {"account_id": "496359352310","roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]}
+    },
+    "roles": {
+        "ItocReadOnlyAccess": {"color": "008a70"},
+        "ItocAdminAccess": {"color": "ff2600"}
+    }}

@@ -1,0 +1,33 @@
+{
+    "accounts": {
+        "root": {
+            "account_id": "0000000000",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "sandbox": {
+            "account_id": "0000000000",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "security": {
+            "account_id": "0000000000",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "0000000000",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "staging": {
+            "account_id": "0000000000",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "0000000000",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "disasterrecovery": {
+            "account_id": "0000000000",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        }
+    }, 
+    "roles": {}
+}

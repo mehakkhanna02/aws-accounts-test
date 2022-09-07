@@ -1,0 +1,13 @@
+{
+    "accounts": {
+        "staging": {
+            "account_id": "881677723251",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "433133888925",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

@@ -1,0 +1,82 @@
+{
+  "accounts": {
+    "management": {
+      "account_id": "854021116047",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "audit": {
+      "account_id": "813594512572",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "shared": {
+      "account_id": "327207753802",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "preproduction": {
+      "account_id": "452286352260",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "development": {
+      "account_id": "902166295541",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "vertexonqadev": {
+      "account_id": "709836041349",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "producttechcicd": {
+      "account_id": "922869917676",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "corporate": {
+      "account_id": "772826102679",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "paysimdevelopment": {
+      "account_id": "685502376903",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "vertexonsandbox": {
+      "account_id": "311270519321",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    },
+    "legacy": {
+      "account_id": "972849267113",
+      "roles": [
+        "ItocAdmin",
+        "ItocReadOnly"
+      ]
+    }
+  },
+  "roles": {}
+}

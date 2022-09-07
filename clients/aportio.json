@@ -1,0 +1,29 @@
+{
+    "accounts": {
+        "organization": {
+            "account_id": "259629397736",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "974691577720",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "ident": {
+            "account_id": "725601485810",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "sec": {
+            "account_id": "839240379901",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "187133701115",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "tackle.io": {
+            "account_id": "161759516764",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

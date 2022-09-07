@@ -1,0 +1,10 @@
+{
+    "accounts": {
+
+        "production": {
+            "account_id": "445644921704",
+            "roles": ["ItocReadOnly","ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

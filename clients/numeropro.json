@@ -1,0 +1,11 @@
+{
+    "accounts": {
+        "prod": {
+            "account_id": "215523707720",
+            "roles": [
+                "ItocReadOnly","ItocAdmin"
+            ]
+        }
+    },
+    "roles": {}
+}

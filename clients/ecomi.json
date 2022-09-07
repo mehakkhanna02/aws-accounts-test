@@ -1,0 +1,50 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "458235379635",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "770288817814",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "logarchive": {
+            "account_id": "603698166251",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "crowdsale-testnet": {
+            "account_id": "257612580599",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "crowdsale": {
+            "account_id": "211586273968",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "gitlab": {
+            "account_id": "891346794807",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "securewallet-production": {
+            "account_id": "309476247999",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "securewallet-staging": {
+            "account_id": "988048979533",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "veve-dev": {
+            "account_id": "634213785782",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "veve-production": {
+            "account_id": "071971278673",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "veve-staging": {
+            "account_id": "429009169053",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+        
+    },
+    "roles": {}
+}

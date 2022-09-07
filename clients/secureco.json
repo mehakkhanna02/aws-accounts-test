@@ -1,0 +1,121 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "251912453588",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "iam": {
+            "account_id": "697140654752",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "build": {
+            "account_id": "999501374911",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "security": {
+            "account_id": "695634153353",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "420846319887",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "629761086090",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },        
+        "test-ops": {
+            "account_id": "521994605325",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "org-test": {
+            "account_id": "824343089448",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "direct-connect": {
+            "account_id": "576780326243",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pgp-dev": {
+            "account_id": "904220798854",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pgp-staging": {
+            "account_id": "404779548247",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pgp-sandbox": {
+            "account_id": "22637676531",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },        
+        "pgp-prod": {
+            "account_id": "128554062327",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "utility-dev": {
+            "account_id": "954569457264",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "utility-staging": {
+            "account_id": "595132299316",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "utility-sandbox": {
+            "account_id": "904073948169",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "utility-prod": {
+            "account_id": "642661097240",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "racv-dev": {
+            "account_id": "262045290146",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "racv-sit": {
+            "account_id": "666576005675",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "racv-uat": {
+            "account_id": "915860000608",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "racv-staging": {
+            "account_id": "242782399149",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "racv-production": {
+            "account_id": "559825263405",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },        
+        "pci-utility-dev": {
+            "account_id": "236244936614",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pci-utility-staging": {
+            "account_id": "197153303041",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pci": {
+            "account_id": "249767191232",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pci-utility-prod": {
+            "account_id": "658851431291",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "security-dev": {
+            "account_id": "621517460305",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "recpayments-sandbox": {
+            "account_id": "151143264863",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "recpayments-prod": {
+            "account_id": "002985347860",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }                                    
+    }, 
+    "roles": {}
+}

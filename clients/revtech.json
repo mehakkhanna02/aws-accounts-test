@@ -1,0 +1,53 @@
+{
+    "accounts": {
+        "rtm-master": {
+            "account_id": "747662107280",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-staging-9saver": {
+            "account_id": "784177713410",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-staging-obsau": {
+            "account_id": "526383500786",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-staging-50up": {
+            "account_id": "366468039708",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-staging-obsie": {
+            "account_id": "090111952064",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-staging-obsusa": {
+            "account_id": "437387195262",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-production-obsau": {
+            "account_id": "846350915084",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-production-9saver": {
+            "account_id": "426126485066",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-production-50up": {
+            "account_id": "838178312138",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-production-obsie": {
+            "account_id": "747662107280",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-production-obsusa": {
+            "account_id": "955254172773",
+            "roles": ["ItocAdminAccess"]
+        },
+        "rtm-production-m2m": {
+            "account_id": "676559443024",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

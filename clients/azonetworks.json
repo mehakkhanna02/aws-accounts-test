@@ -1,0 +1,17 @@
+{
+    "accounts": {
+        "main": {
+            "account_id": "432006478996",
+            "roles": ["Itoc-ReadOnlyRole", "Itoc-PoweruserRole", "Itoc-AdministratorRole"]
+        },
+        "databunker": {
+            "account_id": "048873050079",
+            "roles": ["Itoc-ReadOnlyRole"]
+        }
+    },
+    "roles": {
+        "Itoc-ReadOnlyRole": {"color": "008a70", "is_write": false},
+        "Itoc-PoweruserRole": {"color": "ff2600", "is_write": true},
+        "Itoc-AdministratorRole": {"color": "ff2600", "is_write": true}
+    }
+}

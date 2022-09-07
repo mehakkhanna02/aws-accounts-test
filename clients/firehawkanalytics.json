@@ -1,0 +1,27 @@
+{
+    "accounts": {
+        "management": {
+            "account_id": "617668688835",
+            "roles": ["ItocAdminAccess"]
+        },
+        "audit": {
+            "account_id": "748875938660",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "567763767709",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "development-sydney": {
+            "account_id": "242645586052",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "production-sydney": {
+            "account_id": "004302513262",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        }
+    }, 
+    "roles": {
+        "ItocAdminAccess": {"color": "ff2600"}        
+    }
+}

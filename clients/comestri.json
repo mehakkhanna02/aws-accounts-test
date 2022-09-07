@@ -1,0 +1,80 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "553429138495",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "343550120095",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "identity": {
+            "account_id": "145212552567",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "613638465716",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "156465098705",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "testing": {
+            "account_id": "602345477928",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "staging": {
+            "account_id": "639441489366",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "hosting": {
+            "account_id": "675040816591",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "legacy-ey": {
+            "account_id": "398467159191",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production-uk": {
+            "account_id": "163973579475",
+            "region": "eu-west-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production-us": {
+            "account_id": "089275933069",
+            "region": "us-east-1",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "oms": {
+            "account_id": "055805663400",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production-sg": {
+            "account_id": "240755408200",
+            "region": "ap-southeast-1",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "cloud9": {
+            "account_id": "182942001404",
+            "region": "ap-southeast-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "global-apps":  {
+            "account_id": "883570215267",
+            "region": "ap-southeast-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]  
+        },
+        "test-auto-deployment":  {
+            "account_id": "611395181117",
+            "region": "ap-southeast-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]  
+        },
+        "comestri-marketplace":  {
+            "account_id": "826637427147",
+            "region": "ap-southeast-2",
+            "roles": ["ItocReadOnly", "ItocAdmin"]  
+        }
+    },
+    "roles": {}
+}

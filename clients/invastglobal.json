@@ -1,0 +1,33 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "387245045000",
+            "roles":  ["ItocAdmin"]
+        },
+        "logging": {
+            "account_id": "368988068666",
+            "roles":  ["ItocAdmin"]
+        },
+        "networking": {
+            "account_id": "124101502188",
+            "roles":  ["ItocAdmin"]
+        },
+        "dev": {
+            "account_id": "924144115931",
+            "roles":  ["ItocAdmin"]
+        },
+        "unicorn3": {
+            "account_id": "256081396930",
+            "roles":  ["ItocAdmin"]
+        },
+        "prod": {
+            "account_id": "402413464181",
+            "roles":  ["ItocAdmin"]
+        },
+        "workspaces": {
+            "account_id": "767200693608",
+            "roles":  ["ItocAdmin"]
+        }
+    }, 
+    "roles": {}
+}

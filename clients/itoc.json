@@ -1,0 +1,42 @@
+{
+    "accounts": {
+        "control-plane": {
+            "account_id": "947503054808",
+            "roles": [
+                "IAMResources-AdministratorRole-GODEXW7LWKQM",
+                "ItocAdmin",
+                "ItocReadOnly"
+            ]
+        },
+        "sandpit": {
+            "account_id": "665628331607",
+            "roles": [
+                "ItocAdmin"
+            ]
+        },
+        "production": {
+            "account_id": "650679463300",
+            "roles": [
+                "ItocReadOnly", 
+                "ItocAdmin"
+            ]
+        },
+        "datavault": {
+            "account_id": "946823009940",
+            "roles": [
+                "ItocReadOnly", 
+                "ItocAdmin"
+            ]
+        },
+        "audit": {
+            "account_id": "159753314770",
+            "roles": [
+                "itoc-av-logs"
+            ]
+        }
+    },
+    "roles": {
+        "IAMResources-AdministratorRole-GODEXW7LWKQM": {"color": "ff2600"},
+        "itoc-av-logs": {"color": "ff2600"}
+    }
+}

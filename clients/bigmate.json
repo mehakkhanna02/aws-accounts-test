@@ -1,0 +1,29 @@
+{
+    "accounts": {
+        "management": {
+            "account_id": "186160014682",
+            "roles": ["ItocAdminAccess"]
+        },
+        "prod": {
+            "account_id": "042920734173",
+            "roles": ["ItocAdminAccess"]
+        },
+        "dev-main": {
+            "account_id": "121196000602",
+            "roles": ["ItocAdminAccess"]
+        },
+        "marketplace": {
+            "account_id": "708150194979",
+            "roles": ["ItocAdminAccess"]
+        },
+        "dev-panorama": {
+            "account_id": "732645703383",
+            "roles": ["ItocAdminAccess"]
+        },
+        "admin-training": {
+            "account_id": "996835811105",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

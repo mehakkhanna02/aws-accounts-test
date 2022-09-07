@@ -1,0 +1,9 @@
+{
+    "accounts": {
+        "prod-master": {
+            "account_id": "177858558023",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

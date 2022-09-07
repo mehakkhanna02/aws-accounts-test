@@ -1,0 +1,18 @@
+{
+    "accounts": {
+
+        "master": {
+            "account_id": "708989319097",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "dev": {
+            "account_id": "554192959738",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "legacy": {
+            "account_id": "334454425476",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        } 
+    },
+    "roles": {}
+}

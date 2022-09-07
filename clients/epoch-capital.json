@@ -1,0 +1,45 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "509132207706",
+            "roles": ["ItocAdminAccess"]
+        },
+        "audit": {
+            "account_id": "448621796903",
+            "roles": ["ItocAdminAccess"]
+        },
+        "identity": {
+            "account_id": "431172540187",
+            "roles": ["ItocAdminAccess"]
+        },
+        "shared": {
+            "account_id": "206431844722",
+            "roles": ["ItocAdminAccess"]
+        },
+        "mft-prod": {
+            "account_id": "296444842151",
+            "roles": ["ItocAdminAccess"]
+        },
+        "techops-prod": {
+            "account_id": "212250453007",
+            "roles": ["ItocAdminAccess"]
+        },
+        "mft-test": {
+            "account_id": "070440285199",
+            "roles": ["ItocAdminAccess"]
+        },
+        "techops-test": {
+            "account_id": "647806835174",
+            "roles": ["ItocAdminAccess"]
+        },
+        "mft-dev": {
+            "account_id": "921669256356",
+            "roles": ["ItocAdminAccess"]
+        },
+        "techops-dev": {
+            "account_id": "261787210448",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

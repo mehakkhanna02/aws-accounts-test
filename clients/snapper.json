@@ -1,0 +1,17 @@
+{
+    "accounts": {
+        "tools": {
+            "account_id": "540752995238",
+            "roles": ["ItocReadOnlyAccess"]
+        },
+        "dev": {
+            "account_id": "786538038206",
+            "roles": ["ItocAdminAccess"]
+        },
+        "prod": {
+            "account_id": "215192113416",
+            "roles": ["ItocReadOnlyAccess"]
+        }
+    },
+    "roles": {"ItocReadOnlyAccess": {"color": "000000"}}
+}

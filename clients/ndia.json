@@ -1,0 +1,37 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "600600716975",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "marketplace": {
+            "account_id": "473505905005",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "733128324956",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "security": {
+            "account_id": "174466665171",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "023824457001",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "903045608067",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "staging": {
+            "account_id": "351131082835",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "470788646660",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        }
+    }, 
+    "roles": {}
+}

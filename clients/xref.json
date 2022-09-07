@@ -1,0 +1,25 @@
+{
+    "accounts": {
+        "master-prod": {
+            "account_id": "954224802985",
+            "roles": ["ItocAdmin"]
+        },
+        "dev": {
+            "account_id": "917810561811",
+            "roles": ["ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "200831182998",
+            "roles": ["ItocAdmin"]
+        },
+        "management": {
+            "account_id": "167254207283",
+            "roles": ["ItocAdmin"]
+        },
+        "sandbox": {
+            "account_id": "881782528485",
+            "roles": ["ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

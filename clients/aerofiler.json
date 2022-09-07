@@ -1,0 +1,81 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "135781262600",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "drtest": {
+            "account_id": "553283999617",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "production": {
+            "account_id": "694310902169",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "staging": {
+            "account_id": "855366372032",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "uat": {
+            "account_id": "560156759655",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "app-afcdn": {
+            "account_id": "502865311472",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "app-afcdn-prod": {
+            "account_id": "062417462543",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "app-afweb-azap-sg-integ1": {
+            "account_id": "208846166743",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "app-afweb-azap-sg-prod": {
+            "account_id": "452393717519",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "app-afweb-integ1": {
+            "account_id": "584484250691",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "app-afweb-eu-integ": {
+            "account_id": "707095245297",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "app-afweb-eu-prod": {
+            "account_id": "733404119970",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "phoenix": {
+            "account_id": "828923406170",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "audit": {
+            "account_id": "654763296662",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "dev": {
+            "account_id": "490706554808",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "infra-dns-nonprod": {
+            "account_id": "255814265160",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "infra-dns-prod": {
+            "account_id": "559668716666",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "logs-archive": {
+            "account_id": "298769803180",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "sandbox": {
+            "account_id": "505406987581",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        }
+    },
+    "roles": {}
+}

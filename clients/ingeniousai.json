@@ -1,0 +1,17 @@
+{
+    "accounts": {
+        "au-production-ops": {
+            "account_id": "633477496189",
+            "roles": ["ItocReadOnly"]
+        },
+        "audit": {
+          "account_id": "482834746673",
+          "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "sandpit": {
+          "account_id": "463560953534",
+          "roles": ["ItocAdmin", "ItocReadOnly"]
+        }
+    }, 
+    "roles": {}
+}

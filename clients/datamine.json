@@ -1,0 +1,23 @@
+{
+    "accounts": {
+        "management": {
+            "account_id": "512134244425",
+            "roles": ["ItocAdminAccess"]
+        },
+        "audit": {
+            "account_id": "590322457447",
+            "roles": ["ItocAdminAccess"]
+        },
+        "datamine-ops-ims": {
+            "account_id": "467790885022",
+            "roles": ["ItocAdminAccess"]
+        },
+        "datamine-ims-dev": {
+            "account_id": "586071828321",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {
+        "ItocAdminAccess" : {"color": "008a70"}
+    }
+} 

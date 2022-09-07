@@ -1,0 +1,29 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "302625314569",
+            "roles": ["ItocAdminAccess"]
+        },
+        "audit": {
+            "account_id": "212527315485",
+            "roles": ["ItocAdmin"]
+        },
+        "main-prod": {
+            "account_id": "254845225647",
+            "roles": ["ItocAdmin"]
+        },
+        "cisro-prod": {
+            "account_id": "726816135037",
+            "roles": ["ItocAdmin"]
+        },
+        "serveus-prod": {
+            "account_id": "947495285672",
+            "roles": ["ItocAdmin"]
+        },
+        "homestaycare-prod": {
+            "account_id": "590986216309",
+            "roles": ["ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

@@ -1,0 +1,36 @@
+{
+    "accounts": {
+        "admin": {
+            "account_id": "705567467943",
+            "roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]
+        },
+        "admin-prod": {
+            "account_id": "332887698547",
+            "roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]
+        },
+        "admin-retirement": {
+            "account_id": "112727068431",
+            "roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]
+        },
+        "clover-ops-ci": {
+            "account_id": "875875945754",
+            "roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]
+        },
+        "clover-ops": {
+            "account_id": "825151634343",
+            "roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]
+        },
+        "clover-trading-prod": {
+            "account_id": "028325200813",
+            "roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]
+        },
+        "clover-trading-staging": {
+            "account_id": "509432449014",
+            "roles": ["ItocReadOnlyAccess", "ItocAdminAccess"]
+        }
+    }, 
+    "roles": {
+      "ItocReadOnlyAccess" : {"color": "b14c2b"},
+      "ItocAdminAccess" : {"color": "a40217"}
+  }
+}

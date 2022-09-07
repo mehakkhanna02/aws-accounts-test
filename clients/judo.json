@@ -1,0 +1,92 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "179863823297",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "control-plane": {
+            "account_id": "558608711941",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "connect-nonprod": {
+            "account_id": "225150461432",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "connect-prod": {
+            "account_id": "035837743446",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "946889866426",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "786681773426",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pre-prod": {
+            "account_id": "974780020439",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "dave-prod": {
+            "account_id": "488264320952",
+            "roles": ["ItocReadOnly", "Administrator", "ItocDaveOperator", "ItocPatchingRole", "BastionRole", "AlationManagement"]
+        },
+        "dave-preprod": {
+            "account_id": "921101407340",
+            "roles": ["ItocReadOnly", "Administrator", "ItocDaveOperator", "ItocPatchingRole", "BastionRole"]
+        },
+        "dave-development": {
+            "account_id": "409752643991",
+            "roles": ["ItocReadOnly", "Administrator", "ItocDaveOperator", "ItocPatchingRole", "BastionRole"]
+        },
+        "integration-sit": {
+            "account_id": "373817497552",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "integration-preprod": {
+            "account_id": "773642787370",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "integration-prod": {
+            "account_id": "964126201483",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "integration-lsit": {
+            "account_id": "375903337436",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "poc": {
+            "account_id": "239389648246",
+            "roles": ["ItocAdmin"]
+        },
+        "website-production": {
+            "account_id": "022207456089",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "website-preproduction": {
+            "account_id": "549507581602",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "website-control-plane": {
+            "account_id": "781225442226",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "payments-production": {
+            "account_id": "942341614976",
+            "roles": ["ItocReadOnly", "Administrator"]
+        },
+        "payments-preproduction": {
+            "account_id": "079008534563",
+            "roles": ["ItocReadOnly", "Administrator"]
+        }
+    },
+    "roles": {
+        "Administrator" : {"color": "ff2600"},
+        "ItocDaveOperator" : {"color": "ff2600"},
+        "ItocPatchingRole" : {"color": "ff2600"},
+        "BastionRole" : {"color": "ff2600"},
+        "ItocAccountAccess" : {"color": "ff2600"},
+        "AlationManagement" : {"color": "ff2600"}
+    }
+}

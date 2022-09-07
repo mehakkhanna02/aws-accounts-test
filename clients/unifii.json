@@ -1,0 +1,41 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "663974780077",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "186256147884",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "255921449967",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "identity": {
+            "account_id": "749381890416",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "preprod": {
+            "account_id": "346149476714",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "dev": {
+            "account_id": "290433155332",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "prod": {
+            "account_id": "189371335924",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "temos-prod": {
+            "account_id": "023649217832",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "crown-prod": {
+            "account_id": "665161029137",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

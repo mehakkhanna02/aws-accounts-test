@@ -1,0 +1,22 @@
+{
+    "accounts": {
+
+        "master": {
+            "account_id": "177053563178",
+            "roles": ["ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "861375835225",
+            "roles": ["ItocAdmin"]
+        },
+        "prod": {
+            "account_id": "190769878527",
+            "roles": ["ItocAdminAccess"]
+        },
+        "dev": {
+            "account_id": "188422387012",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

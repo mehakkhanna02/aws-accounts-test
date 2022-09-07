@@ -1,0 +1,21 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "362288366897",
+            "roles": ["ItocAdminAccess"]
+        },
+        "audit": {
+            "account_id": "248126064239",
+            "roles": ["ItocAdminAccess"]
+        },
+        "log-archive": {
+            "account_id": "745481139717",
+            "roles": ["ItocAdminAccess"]
+        },
+        "marketplace": {
+            "account_id": "358860022627",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

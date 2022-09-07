@@ -1,0 +1,19 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "118344644830",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "632134346714",
+            "roles": ["ItocReadOnly", "ItocAdmin"],
+            "region": "us-west-2"
+        },
+        "production": {
+            "account_id": "090921371925",
+            "roles": ["ItocReadOnly", "ItocAdmin"],
+            "region": "us-west-2"
+        }
+    },
+    "roles": {}
+}

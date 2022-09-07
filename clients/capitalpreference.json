@@ -1,0 +1,13 @@
+{
+    "accounts": {
+        "management": {
+            "account_id": "847851688140",
+            "roles": ["ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "929668715859",
+            "roles": ["ItocAdmin"]
+        }
+    }, 
+    "roles": {}
+}

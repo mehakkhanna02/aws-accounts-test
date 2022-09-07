@@ -1,0 +1,37 @@
+{
+    "accounts": {
+        "management": {
+            "account_id": "407704559716",
+            "roles": ["ItocBilling", "ItocAdmin"]
+        },
+        "internal": {
+            "account_id": "050007639552",
+            "roles": ["ItocBilling", "ItocAdmin"]
+        },
+        "cloud": {
+            "account_id": "899825497897",
+            "roles": ["ItocBilling", "ItocAdmin"]
+        },
+        "production": {
+            "account_id": "990252484593",
+            "roles": ["ItocAdmin"]
+        },
+        "security": {
+            "account_id": "132206949529",
+            "roles": ["ItocAdmin"]
+        },
+        "uat": {
+            "account_id": "076102125985",
+            "roles": ["ItocAdmin"]
+        },
+        "development": {
+            "account_id": "513618721462",
+            "roles": ["ItocAdmin"]
+        },
+        "sharedservices": {
+            "account_id": "185556331088",
+            "roles": ["ItocAdmin"]
+        }
+    }, 
+    "roles": {}
+}

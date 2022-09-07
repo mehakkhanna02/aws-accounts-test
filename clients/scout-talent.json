@@ -1,0 +1,38 @@
+{
+    "accounts": {
+        "main": {
+            "account_id": "003728271609",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "686472219878",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "833302601007",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "development": {
+            "account_id": "665543963048",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production-canada": {
+            "account_id": "169440581283",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "production-sydney": {
+            "account_id": "097590976289",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "legacy-prod-canada": {
+            "account_id": "166918006726",
+            "roles": ["ItocReadOnly", "ItocAdmin"],
+            "region": "ca-central-1"
+        },
+        "legacy-prod-australia": {
+            "account_id": "882363747026",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

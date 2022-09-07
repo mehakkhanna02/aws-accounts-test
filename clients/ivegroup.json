@@ -1,0 +1,37 @@
+{
+    "accounts": {
+        "ddc-master": {
+            "account_id": "035844795923",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "ddc-audit": {
+            "account_id": "278010721276",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "ddc-identity": {
+            "account_id": "641375351139",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "ddc-shared": {
+            "account_id": "521690211134",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "ddc-development": {
+            "account_id": "162946825006",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "ddc-staging": {
+            "account_id": "240976458760",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "ddc-production": {
+            "account_id": "979744966687",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "jba-admin": {
+            "account_id": "977487671053",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

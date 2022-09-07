@@ -1,0 +1,20 @@
+{
+    "accounts": {
+        "unusable": {
+            "account_id": "174396275689",
+            "roles": ["ItocReadOnlyAccess","ItocAdminAccess"]
+        },
+        "poc": {
+            "account_id": "174396275689",
+            "roles": ["ItocReadOnlyAccess","ItocAdminAccess"]
+        },
+        "production": {
+            "account_id": "830074022218",
+            "roles": [ "ItocReadOnly","ItocAdminAccess"]
+        }
+    }, 
+    "roles": {
+        "ItocReadOnlyAccess": {"color": "008a70"},
+        "ItocAdminAccess": {"color": "ff2600"}
+    }
+}

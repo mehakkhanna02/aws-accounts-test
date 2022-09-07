@@ -1,0 +1,9 @@
+{
+    "accounts": {
+        "playground": {
+            "account_id": "503434835498",
+            "roles": ["ItocAdminAccess"]
+        }
+    },
+    "roles": {}
+}

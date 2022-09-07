@@ -1,0 +1,9 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "792751483275",
+            "roles": ["ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

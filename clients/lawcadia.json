@@ -1,0 +1,13 @@
+{
+    "accounts": {
+        "lawcadia-readonly": {
+            "account_id": "874177642864",
+            "roles": [
+                "ItocReadOnly", "ItocAdmin", "ItocPatching"
+            ]
+        }
+    },
+    "roles": {
+        "ItocPatching": {"color": "008a70"}
+    }
+}

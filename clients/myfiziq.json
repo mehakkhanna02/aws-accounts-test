@@ -1,0 +1,45 @@
+{
+    "accounts": {
+        "global": {
+            "account_id": "175889021455",
+            "roles": ["ITOCAccountAccess"]
+        },
+        "control-plane": {
+            "account_id": "605870451507",
+            "roles": ["ITOCAccountAccess"]
+        },
+        "api-dev": {
+            "account_id": "302072637137",
+            "roles": ["ITOCAccountAccess"]
+        },
+        "legacy-prod": {
+            "account_id": "207821774562",
+            "roles": ["ITOCAccountAccess"]
+        },
+        "legacy-backbox": {
+            "account_id": "225699035538",
+            "roles": ["ITOCAccountAccess"]
+        },
+        "website": {
+            "account_id": "327413015859",
+            "roles": ["ITOCAccountAccess"]
+        },
+        "prod": {
+            "account_id": "414266887922",
+            "roles": ["ITOCAccountAccess"]
+        },
+        "evolt": {
+            "account_id": "948617982338",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "bearn": {
+            "account_id": "942829780424",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "biomorphik": {
+            "account_id": "954639935817",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

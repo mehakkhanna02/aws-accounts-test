@@ -1,0 +1,50 @@
+{
+    "accounts": {
+
+        "main": {
+            "account_id": "886150319419",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "audit": {
+            "account_id": "671041832178",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "compliance": {
+            "account_id": "741404596352",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "marketing-staging": {
+            "account_id": "546490424653",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "marketing-production": {
+            "account_id": "320846955824",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "psy-production": {
+            "account_id": "499472342799",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "shared-staging": {
+            "account_id": "916335270341",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "psy-staging": {
+            "account_id": "524896155266",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "shared-production": {
+            "account_id": "853955463228",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "psy-dev": {
+            "account_id": "796165948686",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        },
+        "psy-legacy": {
+            "account_id": "699524771547",
+            "roles": ["ItocAdmin", "ItocReadOnly"]
+        }
+    },
+    "roles": {}
+}

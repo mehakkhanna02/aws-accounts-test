@@ -1,0 +1,79 @@
+{
+    "accounts": {
+        "shared": {
+            "account_id": "334323731027",
+            "roles": [
+                "ItocReadOnly"
+            ]
+        },
+        "master": {
+            "account_id": "125187792695",
+            "roles": [
+                "ItocReadOnly"
+            ]
+        },
+        "identity": {
+            "account_id": "876161292288",
+            "roles": [
+                "ItocReadOnly"
+            ]
+        },
+        "audit": {
+            "account_id": "341204948448",
+            "roles": [
+                "ItocReadOnly"
+            ]
+        },
+        "dev": {
+            "account_id": "387132662167",
+            "roles": [
+                "ItocReadOnly"
+            ]
+        },
+        "staging": {
+            "account_id": "193486032497",
+            "roles": [
+                "ItocReadOnly"
+            ]
+        },
+        "prod": {
+            "account_id": "446421359355",
+            "roles": [
+                "ItocReadOnly"
+            ]
+        },
+        "pca-management": {
+            "account_id": "540917906518",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pca-audit": {
+            "account_id": "277958259668",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pca-identity": {
+            "account_id": "509400756007",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pca-production": {
+            "account_id": "578640536587",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pca-security": {
+            "account_id": "482065681641",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pca-shared": {
+            "account_id": "318664057432",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pca-staging": {
+            "account_id": "003339269539",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        },
+        "pca-svt": {
+            "account_id": "611656529096",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

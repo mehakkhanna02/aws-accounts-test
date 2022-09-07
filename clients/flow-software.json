@@ -1,0 +1,45 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "379056087631",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "731541925877",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "shared": {
+            "account_id": "196603822580",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "cloud-dev": {
+            "account_id": "386997053570",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "cloud-staging": {
+            "account_id": "818383556749",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "cloud-prod": {
+            "account_id": "973115067734",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "web": {
+            "account_id": "957757261953",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "legacy-infra-dev": {
+            "account_id": "191136387654",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "legacy-infra-prod": {
+            "account_id": "380893266610",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        },
+        "consulting": {
+            "account_id": "271491688756",
+            "roles":  ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

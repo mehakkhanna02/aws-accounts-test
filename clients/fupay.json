@@ -1,0 +1,9 @@
+{
+    "accounts": {
+        "legacy-dev-ro": {
+            "account_id": "841909260160",
+            "roles": ["ItocReadOnly", "ItocAdmin"]
+        }
+    },
+    "roles": {}
+}

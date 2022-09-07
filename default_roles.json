@@ -1,0 +1,30 @@
+{
+    "ItocBilling": {
+        "color": "0000cc",
+        "is_write": false
+    },
+    "ItocReadOnly": {
+        "color": "008a70",
+        "is_write": false
+    },
+    "ItocReadOnlyAccess": {
+        "color": "008a70",
+        "is_write": false
+    },
+    "ItocAdmin": {
+        "color": "ff2600",
+        "is_write": true
+    },
+    "ITOCAccountAccess": {
+        "color": "ff2600",
+        "is_write": true
+    },
+    "ItocAccountAccess": {
+        "color": "ff2600",
+        "is_write": true
+    },
+    "ItocAdminAccess": {
+        "color": "ff2600",
+        "is_write": true
+    }
+}

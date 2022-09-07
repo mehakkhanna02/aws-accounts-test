@@ -1,0 +1,43 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "872442554780",
+            "roles": ["ItocReadOnly"]
+        },
+        "audit": {
+            "account_id": "536113006493",
+            "roles": ["ItocReadOnly"]
+        },
+        "backups": {
+            "account_id": "348960699011",
+            "roles": ["ItocReadOnly"]
+        },
+        "datafree_apps": {
+            "account_id": "063893200694",
+            "roles": ["ItocReadOnly"]
+        },
+        "datafree_soccer": {
+            "account_id": "827366159023",
+            "roles": ["ItocReadOnly"]
+        },
+        "analytics": {
+            "account_id": "422211094622",
+            "roles": ["ItocReadOnly"]
+        },
+        "devops": {
+            "account_id": "415983589830",
+            "roles": ["ItocReadOnly"]
+        },
+        "datafree_development": {
+            "account_id": "272885088646",
+            "roles": ["ItocReadOnly"]
+        },
+        "datafree_production": {
+            "account_id": "575330349845",
+            "roles": ["ItocReadOnly"]
+        }
+    },
+    "roles": {
+        "ItocReadOnly" : {"color": "008a70"}
+    }
+} 

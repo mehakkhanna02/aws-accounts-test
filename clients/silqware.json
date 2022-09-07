@@ -1,0 +1,13 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "450283760876",
+            "roles": ["ItocReadOnly"]
+        },
+        "logging": {
+            "account_id": "921975278492",
+            "roles": ["ItocReadOnly"]
+        }
+    },
+    "roles": {}
+}

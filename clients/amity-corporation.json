@@ -1,0 +1,11 @@
+{
+    "accounts": {
+        "marketplace": {
+            "account_id": "346187503177",
+            "roles": [
+                "ItocAdmin"
+            ]
+        }
+    },
+    "roles": {}
+}

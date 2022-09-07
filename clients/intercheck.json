@@ -1,0 +1,17 @@
+{
+    "accounts": {
+        "master": {
+            "account_id": "831665706841",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "operational": {
+            "account_id": "218804712566",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        },
+        "audit": {
+            "account_id": "722758010076",
+            "roles": ["ItocBilling", "ItocReadOnly", "ItocAdmin"]
+        }
+    }, 
+    "roles": {}
+}

@@ -1,0 +1,12 @@
+{
+    "accounts": {
+        "main": {
+            "account_id": "396947753344",
+            "roles": [
+                "ItocReadOnly", 
+                "ItocAdmin"
+            ]
+        }
+    },
+    "roles": {}
+}
